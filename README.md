@@ -1,5 +1,8 @@
 # Random Password Generator
 
+## Where to find
+[Link to site](https://jnollen23.github.io/random-password-gen/)
+
 ## Description
 Create a random password for any occasion. Creating a strong password is difficult because people use ones that are easy to remember. It is recommended to store this password in a password safe so that you dont have to try and memorize it. The website allows the user to pick how long the password is, minimum of 8 characters and maximum of 128 characters in length. The password can contain lowercase, uppercase, numbers, and special characters. I have coded random string generators before but doing so with random circumstances was a new challenge. After solving it quickly I tried to make the code more single use functions instead of the large functions I had created.
 
