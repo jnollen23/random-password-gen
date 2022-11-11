@@ -12,13 +12,13 @@ N/A
 
 ## Usage
 Create a new password by selecting Generate Password
-["Starting point to create a password"](Screenshots/Starting.png?raw=true)
+!["Starting point to create a password"](Screenshots/Starting.png?raw=true)
 
 Answer the promps at the top of the page
-["Length prompt shown"](Screenshots/Length.png?raw=true)
+!["Length prompt shown"](Screenshots/Length.png?raw=true)
 
 Your password will appear in the box
-["Generated password is shown"](Screenshots/Final.png?raw=true)
+!["Generated password is shown"](Screenshots/Final.png?raw=true)
 
 ## Credits
 N/A
